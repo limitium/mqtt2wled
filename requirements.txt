@@ -1,4 +1,5 @@
 paho-mqtt
-prometheus-client
 PyYAML
 yamlreader
+requests
+colorsys
